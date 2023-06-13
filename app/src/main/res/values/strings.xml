@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string name="SeleccionP">Selecciona un Planeta</string>
+</resources>
